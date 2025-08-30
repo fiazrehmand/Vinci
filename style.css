@@ -5,26 +5,6 @@ body {
   color: #e6d8b3;
 }
 
-nav {
-  background: linear-gradient(to right, #3a2c1f, #8b5e3c);
-  padding: 12px;
-}
-
-nav ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  margin: 0;
-  padding: 0;
-  gap: 25px;
-}
-
-nav ul li a {
-  color: #e6d8b3;
-  text-decoration: none;
-  font-weight: bold;
-}
-
 img {
   max-width: 280px;
   border-radius: 50%;
